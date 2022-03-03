@@ -1,0 +1,96 @@
+% Created 2022-02-28 Mon 21:47
+% Intended LaTeX compiler: pdflatex
+\documentclass[11pt]{article}
+\usepackage[utf8]{inputenc}
+\usepackage[T1]{fontenc}
+\usepackage{graphicx}
+\usepackage{longtable}
+\usepackage{wrapfig}
+\usepackage{rotating}
+\usepackage[normalem]{ulem}
+\usepackage{amsmath}
+\usepackage{amssymb}
+\usepackage{capt-of}
+\usepackage{hyperref}
+\usepackage{gensymb}
+\usepackage{circuitikz}
+\usepackage{tikz}
+\usepackage{minted}
+\usepackage[margin=2cm]{geometry}
+\usepackage{tikz}
+\usepackage{float}
+\usepackage{gensymb}
+\usepackage{amsmath}
+\numberwithin{equation}{section}
+\usepackage{chngcntr}
+\counterwithin{figure}{section}
+\counterwithin{table}{section}
+\usepackage{amssymb}
+\newcommand {\R}{\mathbb{R}}
+\usepackage{gensymb}
+\usepackage{booktabs}
+\usepackage{minted}[linenos]
+\usepackage{sourcecodepro}
+\definecolor{deepblue}{rgb}{0.0, 0.18, 0.39}
+\setlength{\parindent}{0}
+\usepackage{parskip}
+\usepackage{enumitem}
+\setlist{noitemsep}
+\usepackage[format=plain, labelfont={bf}, textfont=it]{caption}
+\usepackage{booktabs}
+\usepackage[framemethod=tikz]{mdframed}
+\BeforeBeginEnvironment{minted}{\begin{mdframed}[style=sourcecode]}
+\AfterEndEnvironment{minted}{\end{mdframed}}
+\author{Ben Frazer\thanks{2704250F@student.gla.ac.uk}}
+\date{\today}
+\title{Floating Island - ISDP Group 33}
+\hypersetup{
+ pdfauthor={Ben Frazer},
+ pdftitle={Floating Island - ISDP Group 33},
+ pdfkeywords={},
+ pdfsubject={},
+ pdfcreator={Emacs 27.2 (Org mode 9.6)}, 
+ pdflang={English}}
+\begin{document}
+
+\maketitle
+\tableofcontents
+
+\mdfdefinestyle{sourcecode}{%
+%backgroundcolor=darkgray,
+skipabove=12pt,
+hidealllines=true,
+apptotikzsetting={%
+  \tikzset{mdfbackground/.append style={fill=deepblue,fill opacity=0.1}}},
+leftline=true,%innerleftmargin=10,innerrightmargin=10,
+innerleftmargin=25,
+linewidth = 4pt,
+roundcorner = 2pt,
+linecolor= darkgray,
+%#frametitlerule=true,frametitlerulecolor=green,
+%#frametitlebackgroundcolor=darkgray,
+%#frametitlerulewidth=2pt
+}
+
+\section{Section one}
+\label{sec:orgc49e222}
+\begin{itemize}
+\item \cite{hallenbeck-2013-effec}
+\item \cite{mehta-2014-ident-poten}
+\item \cite{xu-2014-relat-elect}
+\item \cite{xu-2014-probin-cover}
+\item \cite{miller-2014-simul-temper}
+\item \cite{curnan-2014-effec-concen}
+\item \cite{boes-2015-estim-bulk}
+\item \cite{xu-2015-linear-respon}
+\item \cite{xu-2015-relat-between}
+\item \cite{boes-2016-neural-networ}
+\item \cite{boes-2017-neural-networ}
+\end{itemize}
+
+\section{Bibliography}
+\label{sec:org30a7df8}
+\bibliography{testbib}
+
+\bibliographystyle{unsrt}
+\end{document}
