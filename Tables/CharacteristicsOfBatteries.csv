@@ -1,0 +1,8 @@
+﻿Technology,Pros ,Cons
+NiMH,Cheap; ,High self-discharge rate
+,Larger capacity,
+NiCd,Cheap,"Memory effects [fn::The battery memory effect is a reduction in the longevity of a rechargeable battery's charge, due to incomplete discharge in previous uses.];"
+,,Toxic Cd
+NiZn,Cheap;,High self-discharge rate
+, No toxic materials,
+Li-ion,,Lower self-discharge rate
