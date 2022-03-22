@@ -129,7 +129,7 @@ To dampen a platform, one option is to consider an approach similar to vehicle s
 #+NAME: mag_rheo
 [[file:Figures/mag_rheo.png]]
 
-The second option considered is an anti-roll U – tank system which is a U shaped tank filled with water to a specific level to a specific level to stabilise a structure, as shown in Figure ref:u_tank. The structure is attached at the middle of the platform and will extend out towards the corners of the platform but will not interfere with the mooring of the platform. These systems have control valves built-in to transfer water across both ends of the tanks to retain the desired water level so that a structure can remain undisturbed. When waves are experienced by the platform, it would cause the platform to tilt and the control system attached to the tank will determine how much water needs to be transferred to prevent the platform from tilting thus stabilising the platform cite:&5s;6s. The system is equipped with level sensors to determine the current water level and it will be part of the control system used to transfer water between both tanks.
+The second option considered is an anti-roll U – tank system which is a U shaped tank filled with water to a specific level to a specific level to stabilise a structure, as shown in Figure ref:u_tank. The structure is attached at the middle of the platform and will extend out towards the corners of the platform but will not interfere with the mooring of the platform. These systems have control valves built-in to transfer water across both ends of the tanks to retain the desired water level so that a structure can remain undisturbed. When waves are experienced by the platform, it would cause the platform to tilt and the control system attached to the tank will determine how much water needs to be transferred to prevent the platform from tilting thus stabilising the platform cite:&5s;&6s. The system is equipped with level sensors to determine the current water level and it will be part of the control system used to transfer water between both tanks.
 
 #+caption: U - Tank Anti Roll Design Implementation
 #+NAME: u_tank
@@ -236,7 +236,7 @@ With advantages like broadband and wider coverage, the coast-5G-based communicat
 China Mobile Communications Group Co.,Ltd. (CMCC) is the world's leading communications company. The company can build communication lines, communication base stations and provide long-term maintenance.
 
 *** Running cost analysis
-Generally speaking, the cost of 5G Acer station is composed of main equipment, power supporting equipment and facilities and civil construction (shown in Figures ref:MainEquipment, ref:PowerSupportingEquipmentAndFacilities, ref:CivilConstruction).
+Generally speaking, the cost of 5G Acer station is composed of main equipment, power supporting equipment and facilities and civil construction (shown in Tables ref:MainEquipment, ref:PowerSupportingEquipmentAndFacilities, ref:CivilConstruction).
 
 #+ATTR_LATEX: placement [H] :booktabs t:
 #+caption: Running cost for Main equipment
