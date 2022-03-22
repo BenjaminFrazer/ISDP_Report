@@ -443,7 +443,7 @@ Undertake commercial events such as banquets, weddings as well as conferences  t
 ** Introduction
 This section deals with how to make the village environmentally sustainable. This consideration is important to make because the project itself responds to consequences of human activity so avoiding further damage is practical.
 
-In all the design decisions made in sections of the project, environmental sustainability was heavily weighted criteria amongst other options where possible. In the choice of wind power as an energy source over fossil fuelled generators, avoidance of any floatation technology that will give off vibration that affects marine life, the choice of wood- a biodegradable material as the building material of choice. This is not a complete shift as some conventional fossils like those used in boats/ helicopters, the choice of transport and backup generators, but a significant shift.
+In all the design decisions made in sections of the project, environmental sustainability was heavily weighted criteria amongst other options where possible. In the choice of wind power as an energy source over fossil fuelled generators, avoidance of any floatation technology that will give off vibration that affects marine life, the choice of wood, a biodegradable material as the building material of choice. This is not a complete shift as some conventional fossils like those used in boats/ helicopters, the choice of transport and backup generators, but a significant shift.
 
 Below we cover the specific challenges of waste management, water supply and an overall estimated environmental impact of project technologies.
 
@@ -477,9 +477,13 @@ During the useful life of the project, some key indicators to be constantly meas
 For sustainable food supply when there are more platforms, Hydroponics, aquaponics maybe employed to provide food for the village possibly using waste heat from desalination process or heat from waste
 
 * Conclusion
-As an effective solution to the problem of sea level rise, the report discusses the structural, environmental, transport and cost aspects of sea villages, systematically demonstrating the integrity and feasibility of the project. It discusses possible solutions of different challenges, and chooses the best option.
+As an effective solution to the problem of sea level rise, the report discusses the structural, environmental, transport and cost aspects of sea villages, systematically demonstrating the integrity and feasibility of the project. It discusses viable solutions to different challenges and chooses the best option.
 
-In terms of structure, it focuses on describing what technology is used to achieve floating, and considers how to achieve the stability of the structure on the sea. In terms of electricity, how to solve the power supply problem of the project. In terms of cost, the cost of different parts of the project is listed. In terms of transportation and transportation, it discusses how to realise the connection between the village and the land and the connection between the villages, provide as many details of the project as possible, and also explain the market prospects and commercial purposes of the project, indicating its existence and business value.
+In terms of its structure, it focuses on describing what technology is used to achieve floatation and considers how to achieve the stability of the structure on the sea deciding on Biorock anchors for mooring and an anti-roll tank for stabilization.
+
+Power is to be supplied through offshore wind turbines supplemented by back up diesel generators and battery storage. A rough cost estimate for floating the structure, a communication set up and provision of transport are made and  the assumed investment for the project to about =£7= million has an expected payback period of =7.89= years.
+
+The means of transport to the mainland is designated via ships and boats with a floating dock attached to the village platform and 5G networks are to be deployed for communication with the mainland. From an environmental standpoint, it determines that connections to the mainland for waste management and water supply is the best method for stability as well as prescribing environment indicators to monitor the state of the surrounding sea.
 
 * Bibliography
 [[bibliography:biblio.bib]]
