@@ -1,5 +1,6 @@
-Power supporting equipment and facilities,Power Supply,1,"12,048","12,048"
-,Battery,4,"1,204","4,816"
-,air conditioner,1,230,230
-,Condition monitoring,5,"1,445","7,225"
-,Total(¡ê),,,"24,319"
+Name,Quantity,Cost per Piece (\pounds),Total (\pounds)
+Power Supply,1,"12,048","12,048"
+Battery,4,"1,204","4,816"
+air conditioner,1,230,230
+Condition monitoring,5,"1,445","7,225"
+Total(\pounds),,,"24,319"
